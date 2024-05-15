@@ -72,6 +72,13 @@ const HomeRevamped = () => {
                             Buy</a>
                     </div>
                 </div>
+
+                <div className={'bg-[#FFF4E5] w-3/4 mx-auto'}>
+                    <p className={'text-[#663C00] text-center'}>
+                        *All student must present a student identification card at the conference during check-in
+                        Our refund policy is up to 45 days prior to the event. Kindly note that transactions fees are not refundable
+                    </p>
+                </div>
             </section>
 
 
