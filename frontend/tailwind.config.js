@@ -18,6 +18,10 @@ export default {
         secondary: "#0A0047",
         accent: "#EDF6FF",
       },
+        backgroundImage: {
+            'hero-background': "url('/src/assets/hero-background.png')",
+            'speaker': "url('/src/assets/speaker-panel.png')"
+        }
     },
   },
   plugins: [
